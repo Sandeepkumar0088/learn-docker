@@ -1,4 +1,4 @@
 FROM    docker.io/redhat/ubi9:latest
 ARG     username
 ARG     buildno=0.1
-add     --chown=${username} sample.text /
+ADD     --chown=${username} sample.text /
