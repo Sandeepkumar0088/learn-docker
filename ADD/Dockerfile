@@ -1,2 +1,2 @@
-FROM    docker.io/redhat/ub19:latest
+FROM    docker.io/redhat/ubi9:latest
 ADD     sample.text /
