@@ -1,1 +1,1 @@
-echo hell sandeep kumar
+echo $*
